@@ -1,5 +1,0 @@
-2021-06-22 02:58:19 | Przelew wychodzący | Wysłano na 9020210000 | 500,00zł
-2021-06-22 02:59:04 | Przelew wychodzący | Wysłano na 9020210000 | 250,00zł
-2021-06-22 14:22:45 | Przelew przychodzący | Otrzymano od 9020210000 | 50,00zł
-2021-06-22 22:47:51 | Przelew przychodzący | Otrzymano od 9020210000 | 2000,00zł
-2021-06-23 01:07:39 | Przelew przychodzący | Otrzymano od 9020210000 | 50,00zł
